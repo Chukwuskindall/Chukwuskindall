@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chukwuemeka Nwachukwu</h1>
+<h1 align="center">Hi, I'm Chuks </h1>
 <h3 align="center">Software Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
